@@ -1,1 +1,2 @@
-# E-commerce-A-B-testing-1
+# E-commerce A/B и B/A тестирование
+Данные были взяты с kaggle
